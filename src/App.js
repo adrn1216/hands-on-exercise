@@ -1,7 +1,12 @@
 import "./App.css";
+import Pages from "./pages";
 
 function App() {
-  return <div className="App">Louis Adrian Reyes</div>;
+  return (
+    <div className="App">
+      <Pages />
+    </div>
+  );
 }
 
 export default App;
