@@ -1,0 +1,18 @@
+.notFound-base {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.notFound-base > h1,
+.notFound-base > p {
+  margin: 0;
+}
+
+.notFound-base > p > span {
+  color: #6f6f6f;
+  cursor: pointer;
+}
