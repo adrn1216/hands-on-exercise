@@ -1,0 +1,17 @@
+.comments-notes {
+  display: flex;
+  flex-direction: column;
+}
+
+.solution2 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100vw;
+}
+
+.solution2 > section {
+  background-color: #f8f9fa;
+  padding: 0 1em 0.5em 1em;
+  margin: 0.25em;
+  min-width: 400px;
+}

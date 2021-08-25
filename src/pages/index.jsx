@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Exercise1 from "./Exercise1";
 import Exercise2 from "./Exercise2";
 import Exercise3 from "./Exercise3";
+import "./style.css";
 
 const Pages = () => {
   return (

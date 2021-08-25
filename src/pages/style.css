@@ -1,0 +1,19 @@
+h4 {
+  margin-bottom: 0.5em;
+}
+
+p {
+  margin-top: 0.5rem;
+}
+
+input {
+  outline: 0;
+  width: 200px;
+  height: 25px;
+  padding: 0.2em 0.5em;
+  margin: 0.25em 0;
+}
+
+code {
+  word-wrap: break-word;
+}
